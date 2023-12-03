@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CA_BarbutBankaDbFirst</id>
+    <version>1.0.0</version>
+    <authors>CA_BarbutBankaDbFirst</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.14" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_16_11_2023\CA_BatbutBankaDbFirst\bin\Debug\net7.0\CA_BarbutBankaDbFirst.runtimeconfig.json" target="lib\net7.0\CA_BarbutBankaDbFirst.runtimeconfig.json" />
+    <file src="C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_16_11_2023\CA_BatbutBankaDbFirst\bin\Debug\net7.0\CA_BarbutBankaDbFirst.dll" target="lib\net7.0\CA_BarbutBankaDbFirst.dll" />
+  </files>
+</package>
